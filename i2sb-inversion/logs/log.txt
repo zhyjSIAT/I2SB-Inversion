@@ -1,0 +1,10 @@
+[14:06:21] INFO     (0:00:00) Loaded options from /data2/yuanbiao/I2SB_110_wy/yyb/checkpoints/knee/options.pkl!                                       
+           INFO     (0:00:00) [Diffusion] Built I2SB diffusion: steps=1000!                                                                           
+[14:06:24] INFO     (0:00:03) [Net] Initialized network from ckpt_pkl='data/256x256_diffusion_uncond_fixedsigma.pkl'! Size=552802562!                 
+[14:06:30] INFO     (0:00:09) [Net] Loaded network ckpt: /data2/yuanbiao/I2SB_110_wy/yyb/checkpoints/brain/latest.pt!                                 
+           INFO     (0:00:09) [Ema] Loaded ema ckpt: /data2/yuanbiao/I2SB_110_wy/yyb/checkpoints/brain/latest.pt!                                     
+[14:06:35] INFO     (0:00:14) [DDPM Sampling] steps=1000, nfe=80, log_steps=[0, 112, 225, 325, 437, 549, 662, 762, 874, 987]!                         
+[14:06:56] INFO     (0:00:35) slice=1 ssim=0.949346 psnr=42.953949 nmse=0.005903                                                                      
+           INFO     (0:00:35) mean_ssim=0.949346                                                                                                      
+           INFO     (0:00:35) mean_psnr=42.953949                                                                                                     
+           INFO     (0:00:35) mean_nmse=0.005903                                                                                                      

@@ -1,0 +1,11 @@
+numpy==1.26.4
+scipy==1.15.3
+h5py==3.16.0
+torch==2.11.0
+torchvision==0.26.0
+torchmetrics==1.9.0
+torch-ema
+prefetch-generator
+tensorboard
+rich
+tqdm
