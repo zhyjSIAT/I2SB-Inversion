@@ -12,6 +12,11 @@ This is the codebase for **I2SB-Inversion**, including training and sampling for
 ```bash
 pip install -r requirements.txt
 ```
+# Pretrained Checkpoints and Test Data
+
+The pretrained checkpoints and test data used in our experiments are available on [Google Drive](https://drive.google.com/drive/my-drive).
+
+After downloading, please place the files in the corresponding checkpoints/ and test_data/ directories.
 
 # Folder Structure
 
