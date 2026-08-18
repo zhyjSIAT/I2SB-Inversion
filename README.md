@@ -1,8 +1,7 @@
 ![Pytorch](https://img.shields.io/badge/Implemented%20in-Pytorch-red.svg)
 
 <img width="1362" height="746" alt="image" src="https://github.com/user-attachments/assets/64e334d3-aa90-49dc-9116-5cf83cdbc287" />
-Overview of the proposed I2SB-Inversion framework for MRI reconstruction, including the forward bridge process, data-consistent reverse sampling, and inversion-resampling procedure.</b>
-</p>
+
 
 # I2SB-Inversion
 
