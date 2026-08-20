@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 # Pretrained Checkpoints and Test Data
 
-The pretrained checkpoints and test samples are available on [Google Drive](https://drive.google.com/drive/my-drive).
+The pretrained checkpoints and test samples are available on [[Google Drive](https://drive.google.com/drive/my-drive).](https://drive.google.com/drive/folders/1TwGgkjUwvv3mm34fEP1aeaQgNpPXB9gB?usp=sharing)
 
 After downloading, please place the files in the corresponding checkpoints/ and test_data/ directories.
 
